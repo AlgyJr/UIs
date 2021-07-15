@@ -1,2 +1,2 @@
 # UIs
-This repository have Apps UI clone code with Flutter made by me!
+A collection of UIs built by Algy
