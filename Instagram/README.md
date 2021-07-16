@@ -1,4 +1,4 @@
 # Instagram UI
 
 ## :camera_flash: Screenshots
-<img src="/results/screenshot_1.png" width="260">
+<img src="./results/screenshot_1.png" width="260">
